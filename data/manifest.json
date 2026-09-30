@@ -1,0 +1,93 @@
+{
+ "slug": "kopernikus",
+ "facts": {
+  "prim_docs": {
+   "value": 10,
+   "source": "PDAI copernicus-prim: <doc>/pdai-config.json (pages, year)"
+  },
+  "prim_pages": {
+   "value": 3644,
+   "source": "PDAI copernicus-prim: <doc>/pdai-config.json (pages, year)"
+  },
+  "gw_vols": {
+   "value": 6,
+   "source": "PDAI copernicus-prim: <doc>/pdai-config.json (pages, year)"
+  },
+  "gw_pages": {
+   "value": 2935,
+   "source": "PDAI copernicus-prim: <doc>/pdai-config.json (pages, year)"
+  },
+  "rev_1873_pages": {
+   "value": 602,
+   "source": "PDAI copernicus-prim: <doc>/pdai-config.json (pages, year)"
+  },
+  "rev_gw2_pages": {
+   "value": 476,
+   "source": "PDAI copernicus-prim: <doc>/pdai-config.json (pages, year)"
+  },
+  "narratio_pages": {
+   "value": 77,
+   "source": "PDAI copernicus-prim: <doc>/pdai-config.json (pages, year)"
+  },
+  "sec_docs": {
+   "value": 56,
+   "source": "PDAI copernicus-sec: directories with pdai-config.json or biblio.xml"
+  },
+  "sec_pages": {
+   "value": 8351,
+   "source": "PDAI copernicus-sec: page folders"
+  },
+  "sec_year_min": {
+   "value": 1507,
+   "source": "PDAI copernicus-sec: pdai-config.json year"
+  },
+  "sec_year_max": {
+   "value": 2023,
+   "source": "PDAI copernicus-sec: pdai-config.json year"
+  },
+  "sec_dated": {
+   "value": 55,
+   "source": "PDAI copernicus-sec: pdai-config.json year"
+  },
+  "sec_since2000": {
+   "value": 31,
+   "source": "PDAI copernicus-sec: pdai-config.json year"
+  },
+  "sec_before1600": {
+   "value": 2,
+   "source": "PDAI copernicus-sec: pdai-config.json year"
+  },
+  "sent_de": {
+   "value": 44780,
+   "source": "copernicus-prim/agent_context.json: languages"
+  },
+  "sent_de_pct": {
+   "value": 53.4,
+   "source": "copernicus-prim/agent_context.json: languages"
+  },
+  "sent_la": {
+   "value": 35238,
+   "source": "copernicus-prim/agent_context.json: languages"
+  },
+  "sent_la_pct": {
+   "value": 42.1,
+   "source": "copernicus-prim/agent_context.json: languages"
+  },
+  "sent_en": {
+   "value": 3772,
+   "source": "copernicus-prim/agent_context.json: languages"
+  },
+  "sent_en_pct": {
+   "value": 4.5,
+   "source": "copernicus-prim/agent_context.json: languages"
+  },
+  "regio_folios": {
+   "value": 595,
+   "source": "scholarly/research/Regiomontanus/diplomatic: one XML per folio side"
+  }
+ },
+ "notes": [
+  "copernicusGW-IX has no year in pdai-config.json; the table shows no year for it.",
+  "Regiomontanus folios come from regio.dartmouth.edu (souces.qmd); they are a third-party transcription of the Defensio Theonis, not a PDAI edition."
+ ]
+}
